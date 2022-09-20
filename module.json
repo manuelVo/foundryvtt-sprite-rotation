@@ -2,7 +2,7 @@
 	"id": "sprite-rotation",
 	"title": "Sprite Rotation",
 	"description": "Allows to specify the default rotation of a token to align it with sprites that aren't looking down",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"compatibility": {
 		"minimum": "10",
 		"verified": "10"
@@ -31,7 +31,7 @@
 		}
 	],
 	"url": "https://github.com/manuelVo/foundryvtt-sprite-rotation",
-	"download": "https://github.com/manuelVo/foundryvtt-sprite-rotation/archive/v1.0.0.zip",
+	"download": "https://github.com/manuelVo/foundryvtt-sprite-rotation/archive/v1.1.0.zip",
 	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-sprite-rotation/master/module.json",
 	"readme": "https://github.com/manuelVo/foundryvtt-sprite-rotation/blob/master/README.md",
 	"changelog": "https://github.com/manuelVo/foundryvtt-sprite-rotation/blob/master/CHANGELOG.md",
