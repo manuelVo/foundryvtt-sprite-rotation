@@ -1,0 +1,43 @@
+{
+	"name": "sprite-rotation",
+	"title": "Sprite Rotation",
+	"description": "Allows to specify the default rotation of a token to align it with sprites that aren't looking down",
+	"version": "1.0.0",
+	"minimumCoreVersion" : "9",
+	"compatibleCoreVersion" : "9",
+	"compatibility": {
+		"minimum": "9",
+		"verified": "9",
+		"maximum": "9"
+	},
+	"authors": [
+		{
+			"name": "Manuel Vögele",
+			"email": "develop@manuel-voegele.de",
+			"discord": "Stäbchenfisch#5107"
+		}
+	],
+	"esmodules": [
+		"src/libwrapper_shim.js",
+		"src/main.js"
+	],
+	"languages": [
+		{
+			"lang": "de",
+			"name": "Deutsch",
+			"path": "lang/de.json"
+		},
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "lang/en.json"
+		}
+	],
+	"url": "https://github.com/manuelVo/foundryvtt-sprite-rotation",
+	"download": "https://github.com/manuelVo/foundryvtt-sprite-rotation/archive/v1.0.0.zip",
+	"manifest": "https://raw.githubusercontent.com/manuelVo/foundryvtt-sprite-rotation/master/module.json",
+	"readme": "https://github.com/manuelVo/foundryvtt-sprite-rotation/blob/master/README.md",
+	"changelog": "https://github.com/manuelVo/foundryvtt-sprite-rotation/blob/master/CHANGELOG.md",
+	"bugs": "https://github.com/manuelVo/foundryvtt-sprite-rotation/issues",
+	"allowBugReporter": true
+}
